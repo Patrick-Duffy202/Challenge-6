@@ -1,0 +1,26 @@
+.jumbotron {
+    background: #78b1ed!important;
+  }
+  .display-4 {
+    font-family: monospace;
+    text-align: center;
+    font-size: 5rem!important;
+    font-weight: bolder;
+    color: #eee;  
+  }
+  li {
+    background: #78b1ed!important;
+    color: #eee!important;
+    text-align: center!important;
+    font-weight: bolder;
+    font-size: larger;
+    border-style: solid;
+    border-color: #eee!important;
+  }
+  .row {
+    justify-content: space-evenly;
+  }
+  .card {
+    border: 2px solid rgba(0,0,0,.125);
+    border-radius: .50rem;
+  }
